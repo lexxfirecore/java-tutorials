@@ -1,7 +1,8 @@
 package com.lexx.tutorials.javabrains.spring.spring10.bean_autowiring;
+
+
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-
 
 public class Main10 {
 
