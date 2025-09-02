@@ -8,7 +8,7 @@
     <version>1.0-SNAPSHOT</version>
 
 
-    <artifactId>Mkyoung</artifactId>
+    <artifactId>Mkyong</artifactId>
     <packaging>pom</packaging>
     <modules>
         <module>RESTfulExample</module>
