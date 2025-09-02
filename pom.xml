@@ -21,6 +21,7 @@
         <module>JournalDev</module>
         <module>Mkyong</module>
         <module>TutorialsPoint</module>
+        <module>In28Minutes</module>
     </modules>
 
 </project>
