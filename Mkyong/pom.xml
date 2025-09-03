@@ -8,11 +8,11 @@
     <version>1.0-SNAPSHOT</version>
 
 
-    <artifactId>Mkyong</artifactId>
+    <artifactId>com.lexx.tutorials.mkyong</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>RESTfulExample</module>
-        <module>SpringBatch</module>
+        <module>restful</module>
+        <module>spring-batch</module>
     </modules>
 
 

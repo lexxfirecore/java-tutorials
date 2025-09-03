@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lexx.tutorials</groupId>
-    <artifactId>Tutorials</artifactId>
+    <artifactId>tutorials</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
@@ -17,11 +17,11 @@
     </repositories>
 
     <modules>
-        <module>JavaBrains</module>
-        <module>JournalDev</module>
-        <module>Mkyong</module>
-        <module>TutorialsPoint</module>
-        <module>In28Minutes</module>
+        <module>java-brains</module>
+        <module>journal-dev</module>
+        <module>mkyong</module>
+        <module>tutorials-point</module>
+        <module>in28minutes</module>
     </modules>
 
 </project>
