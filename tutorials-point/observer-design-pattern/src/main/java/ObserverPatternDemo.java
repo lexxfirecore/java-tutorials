@@ -1,4 +1,7 @@
-package observer;
+import observer.BinaryObserver;
+import observer.HexaObserver;
+import observer.OctalObserver;
+import observer.Subject;
 
 public class ObserverPatternDemo {
 	   public static void main(String[] args) {
