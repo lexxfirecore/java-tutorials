@@ -7,6 +7,7 @@
     <groupId>com.lexx.tutorials.mkyong</groupId>
     <version>0.1</version>
 
+<!--    change-->
 
     <artifactId>mkyong</artifactId>
     <packaging>pom</packaging>

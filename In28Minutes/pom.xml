@@ -4,16 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>In28Minutes</artifactId>
+    <artifactId>in28minutes</artifactId>
     <groupId>com.lexx.tutorials.in28minutes</groupId>
     <version>0.1</version>
     <packaging>pom</packaging>
 
-    <properties>
-        <maven.compiler.source>24</maven.compiler.source>
-        <maven.compiler.target>24</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
     <modules>
         <module>restful-web-services</module>
 
