@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lexx.tutorials.in28minutes</groupId>
-	<artifactId>restful-web-services</artifactId>
+	<artifactId>in28minutes-restful-web-services</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>restful-web-services</name>
 	<description>Master Microservices with Spring Boot and Spring Cloud</description>
