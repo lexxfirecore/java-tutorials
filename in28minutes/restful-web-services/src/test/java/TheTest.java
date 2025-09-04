@@ -1,5 +1,8 @@
 import org.junit.Before;
 import org.junit.Test;
+import org.springframework.http.HttpMethod;
+import org.springframework.http.MediaType;
+import org.springframework.test.web.client.MockRestServiceServer;
 
 /**
  * Created by Alex Corghencea on 05 September 2017.
